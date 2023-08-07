@@ -1,11 +1,11 @@
 
 # VagrantBoxDownloader
 
-VagrantBoxDownloader is a Python script that allows you to download Vagrant boxes from the Vagrant cloud ("https://app.vagrantup.com/boxes/search?provider=virtualbox") using web scraping (beautiful soup4). 
-It helps you quickly fetch Vagrant boxes and save them locally for offline use or personal development projects.
-By default, it just downloads the box that Virtualbox is set as the provider. and it creates the box file in this format "(box-name).(version).box" and then creates all of your box's download links as a TxT file! 
-you can modify the script to download the box of your choice! (eg. libvirt, lxc)
+VagrantBoxDownloader is a Python script that allows you to download Vagrant boxes from the Vagrant cloud ("https://app.vagrantup.com/boxes/search?provider=virtualbox") using web scraping (beautiful soup4). It helps you quickly fetch Vagrant boxes and save them locally for offline use or personal development projects.
 
+By default, it just downloads the box that Virtualbox is set as the provider. and it creates the box file in this format "(box-name).(version).box" and then creates all of your box's download links as a TxT file! 
+
+you can modify the script to download the box of your choice! (eg. libvirt, lxc)
 ## Prerequisites
 
 - Python >=3.9
