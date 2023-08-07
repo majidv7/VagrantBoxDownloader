@@ -1,2 +1,2 @@
 # vagrant-boxes-mirror
-mirroring vagrant boxes
+The script that can mirror vagrant boxes in your local directory
