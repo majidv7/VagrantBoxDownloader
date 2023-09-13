@@ -10,7 +10,7 @@ you can modify the script to download the box of your choice! (eg. libvirt, lxc)
 
 - Python >=3.9
 - pip3
-- Dependencies: requests, beautifulsoup4, tqdm, fake-useragent
+- Dependencies: listed in ('requirements.txt')
 
 ## Installation
 
