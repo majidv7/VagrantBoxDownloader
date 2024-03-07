@@ -1,5 +1,5 @@
-requests
-bs4
-tqdm
-fake_useragent
+requests==2.31.30
+bs4==4.12.3
+tqdm==4.66.2
+fake_useragent==1.4.0
 
